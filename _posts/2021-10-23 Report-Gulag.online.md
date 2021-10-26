@@ -5,7 +5,7 @@ title: Report: Gulag.online
 
 ## Introduction
 
-The object to research this week is [Gulag.online](gulag.online), a virtual museum. By posting articles, items (books, letters, work gloves, etc.), photos of labour camps, and provides 3D virtual on-site touring, this online museum aims to present the affliction and repression conducted by Soviet Union. (Gulag.online)
+The object to research this week is [Gulag.online](gulag.online), a virtual museum. By posting articles, items (books, letters, work gloves, etc.), photos of labour camps, and provides 3D virtual on-site touring, this online museum aims to present the affliction and repression conducted by Soviet Union. (Gulag.online) The author suggested that this online museum is made for all people who are interested in Gulag camp, or the history of Soviet Union.
 
 ![homepage](J:\CW_local\w3assginment_blog\homepage.png)
 
@@ -27,7 +27,9 @@ However, there is a drawback that search function is not embedded inside gulag.o
 
 ## About the Team of Gulag.online
 
-According to the information at the bottom of homepage, Gulag.online is a project of Gulag.cz. Its team, Gulag.cz Association, based in Czech Republic, is an organization (research institute or NGO?) focusing on the Gulag prison system established in 2009. the Association is co-funded by Erasmus+ Programme of EU. The website showed seven main members of the team, and eight were mentioned in its annual report. The organization accepts donation online. Therefore, the evidence above imply that this online museum is made by a small or middle size team (seven to eight main members, probably with other members or volunteers that were not mentioned) that runs not for profit.
+According to the information at the bottom of homepage, Gulag.online is a project of Gulag.cz. No more information was mentioned in the online museum, but in its parent organization gulag.cz.
+
+Its team, Gulag.cz Association, based in Czech Republic, is an organization (research institute or NGO?) focusing on the Gulag prison system established in 2009. the Association is co-funded by Erasmus+ Programme of EU. The website showed seven main members of the team, and eight were mentioned in its annual report. The organization accepts donation online. Therefore, the evidence above imply that this online museum is made by a small or middle size team (seven to eight main members, probably with other members or volunteers that were not mentioned) that runs not for profit.
 
 <img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211024151912196.png" alt="image-20211024151912196" style="zoom:50%;" />
 
