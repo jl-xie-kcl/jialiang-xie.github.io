@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report: Gulag.online
+title: Gulag.online
 ---
 
 # Report: Gulag.online

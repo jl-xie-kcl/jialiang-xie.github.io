@@ -1,0 +1,109 @@
+I"[<h1 id="report-gulagonline">Report: Gulag.online</h1>
+
+<blockquote>
+  <p><a href="gulag.online">Gulag.online</a></p>
+</blockquote>
+
+<h2 id="background">Background</h2>
+
+<p>Gulag refers to the labour camp established by the Soviet Union, which is regarded as a major means for political repression in Soviet Union. Gulag.online is an online virtual museum to show how the camps look like, and the stories of people detained in it.</p>
+
+<h2 id="layout">Layout</h2>
+
+<h3 id="on-computer">On Computer</h3>
+
+<p>A map with many red dots is showed on the left side of the webpage, occupying about 60% of it. Those red dots implies the locations about the camps, where the items were found, or where the related people lived after being released from Gulag. Users can scroll the mouse to zoom in for more details. On the right side a short introduction is displayed, while around it is main contents and the four main categories.</p>
+
+<p>If one clicks into an introduction of certain person, the article is showed like most website, and the map on the left will change to show the related locations of the person and his/her track in those locations. When the reader scrolls and points to certain paragraph, the map will also change to show the location related to each paragraph.</p>
+
+<h3 id="on-smartphone">On smartphone</h3>
+
+<p>The right part on the laptop, including introduction and categories, is showed and occupying most area of the page on smartphone. The map with red dots was not showed automatically on the smartphone version, one has to click the button to check the map.</p>
+
+<p>Accordingly, when one reads the introduction/an article, related locations are not displayed on the smartphone version automatically. When the reader tries to look at the location about certain paragraph, one has to scroll up to the click the button to check the map, and</p>
+
+<h2 id="filter-functionality">Filter Functionality</h2>
+
+<p>4 Main Categories: <code class="language-plaintext highlighter-rouge">People</code>/<code class="language-plaintext highlighter-rouge">Places</code>/<code class="language-plaintext highlighter-rouge">Items</code>/<code class="language-plaintext highlighter-rouge">Articles</code></p>
+
+<p>For each category:</p>
+
+<h3 id="people">People:</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">All</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Pre-war repression</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Refugees</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Abductees</code></td>
+      <td><code class="language-plaintext highlighter-rouge">POWs</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Gulag Prisoners</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Gulag deaths</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Recorded survivors</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Czechoslovaks</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Poles</code></td>
+      <td> </td>
+      <td><code class="language-plaintext highlighter-rouge">Hungarians</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Baltic states</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211109143317548.png" alt="image-20211109143317548" /></p>
+
+<h3 id="places">Places:</h3>
+<p><code class="language-plaintext highlighter-rouge">POI</code> | <code class="language-plaintext highlighter-rouge">Places linked to prisoner transports</code> | <code class="language-plaintext highlighter-rouge">Transit camp</code> | <code class="language-plaintext highlighter-rouge">Labour camp</code> | <code class="language-plaintext highlighter-rouge">Panorama</code> | <code class="language-plaintext highlighter-rouge">Prison, interrogation centre</code> | <code class="language-plaintext highlighter-rouge">Burial ground, cemetery</code></p>
+
+<p><img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211109143354012.png" alt="image-20211109143354012" /></p>
+
+<h3 id="items">Items:</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">All</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Found in camps</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Clothing</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Name cards</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Letters and diaries</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Newspapers</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Other</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Photogrammetry 3D models</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Photographs</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Archival</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211109143411392.png" alt="image-20211109143411392" /></p>
+
+<h3 id="articles">Articles:</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">All</code></td>
+      <td><code class="language-plaintext highlighter-rouge">History of the Gulag</code></td>
+      <td><code class="language-plaintext highlighter-rouge">The Gulag and nations</code></td>
+      <td><code class="language-plaintext highlighter-rouge">The Gulag in literature</code></td>
+      <td><code class="language-plaintext highlighter-rouge">Our research</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211109143428465.png" alt="image-20211109143428465" /></p>
+
+<h2 id="overall-user-experience">Overall User Experience</h2>
+
+<p>Generally, the user experience of Gulag.online on both computer and smartphone are not bad. To be more specific, the user experience when visiting it on computer is much better than doing on smartphone. The main reason is that using smartphone to look at locations related to the subject of the article is more inconvenient.</p>
+
+<p>When visiting the website on computer, the map will change and show the reader the related locations and tracks automatically as the reader scrolls to certain paragraph, which leaves the reader a deeper impression about the experience in Gulag camps.</p>
+
+<p>However, sometimes it seems a little too sensitive and annoying that the map changes quickly when the reader scrolls, because the reader may not scroll it intentionally, or he/she is reading the same paragraph when scrolling.</p>
+
+<p><img src="C:\Users\Jialiang Edward Xie\AppData\Roaming\Typora\typora-user-images\image-20211109163953593.png" alt="image-20211109163953593" /></p>
+
+<p>When visiting it on smartphone, as the map is not showed automatically, the user cannot experience the main feature of the website, though the reader can focus on the article in this way.</p>
+
+:ET
